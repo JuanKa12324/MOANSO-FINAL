@@ -11,5 +11,20 @@ class Program
 
         Console.WriteLine(" Adivina el número");
         Console.WriteLine("Estoy pensando en un número entre 1 y 100");
+        do
+        {
+            Console.Write("Ingresa un número: ");
+            intento = int.Parse(Console.ReadLine());
+            intentos++;
+
+            if (intento < numeroSecreto)
+            {
+                Console.WriteLine("⬆️ El número es mayor");
+            }
+            else if (intento > numeroSecreto)
+            {
+                Console.WriteLine("⬇️ El número es menor");
+            }
+        }
     }
 }

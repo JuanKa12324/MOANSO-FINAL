@@ -25,6 +25,17 @@ class Program
             {
                 Console.WriteLine("⬇️ El número es menor");
             }
-        }
+            else
+            {
+                Console.WriteLine("¡Correcto!");
+                Console.WriteLine("Lo lograste en " + intentos + " intentos");
+            }
+
+        } while (intento != numeroSecreto);
+
+        Console.WriteLine("Presiona una tecla para salir...");
+        Console.ReadKey();
     }
 }
+        
+    

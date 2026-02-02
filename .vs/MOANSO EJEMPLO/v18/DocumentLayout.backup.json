@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE290729-A7C4-482F-9D56-761886B023B2}|MOANSO EJEMPLO\\MOANSO EJEMPLO.csproj|c:\\users\\juanl\\source\\repos\\repo\\moanso-final\\moanso ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE290729-A7C4-482F-9D56-761886B023B2}|MOANSO EJEMPLO\\MOANSO EJEMPLO.csproj|solutionrelative:moanso ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31A402C9-F712-4D1B-9466-B319219441A9}|Ejemplo 2\\Ejemplo 2.csproj|c:\\users\\juanl\\source\\repos\\repo\\moanso-final\\ejemplo 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31A402C9-F712-4D1B-9466-B319219441A9}|Ejemplo 2\\Ejemplo 2.csproj|solutionrelative:ejemplo 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL\\MOANSO EJEMPLO\\Program.cs",
+              "RelativeDocumentMoniker": "MOANSO EJEMPLO\\Program.cs",
+              "ToolTip": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL\\MOANSO EJEMPLO\\Program.cs",
+              "RelativeToolTip": "MOANSO EJEMPLO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T07:11:26.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL\\Ejemplo 2\\Program.cs",
               "RelativeDocumentMoniker": "Ejemplo 2\\Program.cs",
               "ToolTip": "C:\\Users\\juanl\\source\\repos\\REPO\\MOANSO-FINAL\\Ejemplo 2\\Program.cs",
               "RelativeToolTip": "Ejemplo 2\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T06:51:38.971Z",
               "EditorCaption": ""
